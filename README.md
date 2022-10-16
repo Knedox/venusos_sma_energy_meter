@@ -10,4 +10,5 @@ The python script simply subscribes to multicast group 239.12.255.254 port 9522 
 After receiving it will just convert all values and send them into VenusOS
 # Special thanks to
 https://github.com/mitchese/shm-et340
+
 https://github.com/RalfZim/venus.dbus-fronius-smartmeter

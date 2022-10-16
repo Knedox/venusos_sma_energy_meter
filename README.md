@@ -1,5 +1,6 @@
 # SMA Energy Meter driver for VenusOS
 Simple python script that reads values from SMA Energy Meter and pushes them into VenusOS
+
 If no values are received for more than 2 seconds it will go into "0 watt" mode to avoid that your battery goes crazy
 # Installation
 Download the *sma_energy_meter.py* file and put it into any folder on the venus device e.g. to */home/root*
